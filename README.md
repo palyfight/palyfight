@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=palyfight)
 
-[![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=palyfight&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![palyfight's Stats](https://github-readme-stats.vercel.app/api?username=palyfight&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html,c#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palyfight&layout=compact&langs_count=8&hide=css,html,c#)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **palyfight/palyfight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
